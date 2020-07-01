@@ -1,5 +1,5 @@
 body{
-	font-family: fantasy, Arial, Helvetica;
+	font-family: Helvetica;
 }
 h1{
 	text-align: center;
@@ -70,24 +70,21 @@ p{
 	#ha{
 		position: absolute;
 		left: 70%;
-		bottom: 74.8%;
-		padding: 5px;
+		bottom: 74%;
 		width: 30%;
 		height: 17%;
 	}
 	#hb{
 		position: absolute;
 		left: 70%;
-		bottom: 74.8%;
-		padding: 5px;
+		bottom: 74%;
 		width: 30%;
 		height: 17%;
 	}
 	#hc{
 		position: absolute;
 		left: 70%;
-		bottom: 74.8%;
-		padding: 5px;
+		bottom: 74%;
 		width: 30%;
 		height: 17%;
 	}
@@ -143,24 +140,21 @@ p{
 	#ha{
 		position: absolute;
 		left: 70%;
-		bottom: 74.8%;
-		padding: 5px;
+		bottom: 73%;
 		width: 30%;
 		height: 17%;
 	}
 	#hb{
 		position: absolute;
 		left: 70%;
-		bottom: 74.8%;
-		padding: 5px;
+		bottom: 73%;
 		width: 30%;
 		height: 17%;
 	}
 	#hc{
 		position: absolute;
 		left: 70%;
-		bottom: 67%;
-		padding: 5px;
+		bottom: 66%;
 		width: 30%;
 		height: 20%;
 	}
@@ -214,24 +208,21 @@ p{
 	#ha{
 		position: absolute;
 		left: 70%;
-		bottom: 72%;
-		padding: 5px;
+		bottom: 70%;
 		width: 30%;
 		height: 17%;
 	}
 	#hb{
 		position: absolute;
 		left: 70%;
-		bottom: 72%;
-		padding: 5px;
+		bottom: 70%;
 		width: 30%;
 		height: 17%;
 	}
 	#hc{
 		position: absolute;
 		left: 70%;
-		bottom: 72%;
-		padding: 5px;
+		bottom: 70%;
 		width: 30%;
 		height: 17%;
 	}

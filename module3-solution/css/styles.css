@@ -1,0 +1,25 @@
+body{
+	font-family: 'Nobile', sans-serif;
+}
+#navbarNav{
+	background-color: #C0C0C0;
+}
+#nav-header, h1{
+	margin-bottom: 15px;
+}
+.navbar-brand{
+	margin-left: 40px;
+}
+.navbar-toggler{
+	margin-right: 30px;
+}
+@media (max-width: 575px){
+	.col-xxs-9{
+		position: relative;
+		padding-right: 15px;
+		padding-left: 15px;
+		-ms-flex: 0 0 75%;
+		flex: 0 0 75%;
+		max-width: 75%;
+	}
+}

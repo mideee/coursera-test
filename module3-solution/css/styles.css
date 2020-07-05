@@ -13,6 +13,9 @@ body{
 .navbar-toggler{
 	margin-right: 30px;
 }
+div#adj{
+		box-shadow: 0 2px 2px 2px gray;
+	}
 @media (max-width: 575px){
 	.col-xxs-9{
 		position: relative;

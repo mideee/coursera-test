@@ -2,6 +2,9 @@ body{
 	font-family: 'Nobile', sans-serif;
 	background-color: #CCFFFF;
 }
+*{
+	box-sizing: border-box;
+}
 #navbarNav{
 	background-color: #C0C0C0;
 }
@@ -14,19 +17,6 @@ body{
 .navbar-toggler{
 	margin-right: 30px;
 }
-div#adj{
-		box-shadow: 0 2px 2px 2px gray;
-	}
-@media (max-width: 575px){
-	.col-xxs-9{
-		position: relative;
-		padding-right: 15px;
-		padding-left: 15px;
-		-ms-flex: 0 0 75%;
-		flex: 0 0 75%;
-		max-width: 75%;
-	}
-	div#adj{
-		overflow: hidden;
-	}
+#da,#db,#dc{
+	box-shadow: 1px 2px 2px 4px #003366;
 }
